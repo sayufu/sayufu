@@ -16,7 +16,7 @@
 </div>
 <div>
   <h3>Some technical skills</h3>
-  <ul>
+  <ul align="center">
     <img class="h-8 w-auto rounded-lg" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML badge"/>
     <img class="h-8 w-auto rounded-lg" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS badge"/>
     <img class="h-8 w-auto rounded-lg" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js badge"/>
@@ -35,9 +35,5 @@
     <img class="h-8 w-auto rounded-lg" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ badge"/>
     <img class="h-8 w-auto rounded-lg" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# badge"/>
     <img class="h-8 w-auto rounded-lg" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java badge"/>
-    <img class="h-8 w-auto rounded-lg" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"alt="Microsoft Office badge"/>
-    <img class="h-8 w-auto rounded-lg" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git badge"/>
-    <img class="h-8 w-auto rounded-lg" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge"/>
-    <img class="h-8 w-auto rounded-lg" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma badge"/>
   </ul>
 </div>
