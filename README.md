@@ -20,8 +20,6 @@
     <img class="h-8 w-auto rounded-lg" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML badge"/>
     <img class="h-8 w-auto rounded-lg" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS badge"/>
     <img class="h-8 w-auto rounded-lg" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js badge"/>
-    <img class="h-8 w-auto rounded-lg" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" alt="Angular badge"/>
-    <img class="h-8 w-auto rounded-lg" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET badge"/>
     <img class="h-8 w-auto rounded-lg" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring badge"/>
     <img class="h-8 w-auto rounded-lg" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django badge"/>
     <img class="h-8 w-auto rounded-lg" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL badge"/>
