@@ -2,7 +2,7 @@
   <img src="https://octodex.github.com/images/pusheencat.png" style="height: 10em; width: auto;" alt="Profile picture">
   <h1>Hi there! 👋</h1>
   <p>
-  I'm Liliana, a third-year Software Engineering student at UPC (Universidad Peruana de Ciencias Aplicadas). Currently, I'm seeking opportunities for pre-professional internships or projects where I can actively participate. Additionally, I work on small projects during my free time.
+  I'm Liliana, a Software Engineering student at UPC (Universidad Peruana de Ciencias Aplicadas). Feel free to checkout my most recent projects!.
   </p>
 </div>
 <div>
