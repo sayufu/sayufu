@@ -7,7 +7,7 @@
 </div>
 <div>
   <p align="center">
-    <a href="mailto:lilifuye72@gmail.com" title="lilifuye72@gmail.com"><strong>Email</strong></a>
+    <a href="mailto:lilianafuye@gmail.com" title="lilianafuye@gmail.com"><strong>Email</strong></a>
     ·
     <a href="https://lilianafu.netlify.app/" target="_blank">View Portfolio</a>
     ·
